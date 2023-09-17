@@ -1,0 +1,4 @@
+[23-Oct-2021 21:52:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/meyzjcmc/public_html/geoeduca/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/meyzjcmc/public_html/geoeduca/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17

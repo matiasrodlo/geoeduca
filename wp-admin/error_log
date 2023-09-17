@@ -1,0 +1,5 @@
+[08-Jun-2021 22:02:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/meyzjcmc/public_html/geoeduca/wp-includes/class-wp-image-editor-imagick.php on line 362
+[08-Jun-2021 22:07:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/meyzjcmc/public_html/geoeduca/wp-includes/class-wp-image-editor-imagick.php on line 373
+[13-Jun-2021 23:39:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/meyzjcmc/public_html/geoeduca/wp-includes/class-wp-image-editor-imagick.php on line 373
+[13-Jun-2021 23:52:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/meyzjcmc/public_html/geoeduca/wp-includes/class-wp-image-editor-imagick.php on line 373
+[20-Jun-2021 06:15:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/meyzjcmc/public_html/geoeduca/wp-includes/class-wp-image-editor-imagick.php on line 362
