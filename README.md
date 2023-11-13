@@ -5,6 +5,6 @@ GeoEduca is a multidisciplinary association that seeks to develop sustainable, r
 
 <p>
   <a href="#">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/52969662/282338291-54dab122-9660-47f9-911d-2be1fd9cf1eb.jpg" alt="geoeduca">
+    <img src="https://github.com/matiasrodlo/geoeduca/assets/52969662/7d52bd5b-73e3-430d-9fcf-da64e51d288c" alt="geoeduca">
   </a>
 </p>
